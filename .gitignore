@@ -9,6 +9,7 @@
 *.vs/
 obj/
 bin/
+*.sln
 
 # C++
 *.out
