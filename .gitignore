@@ -1,79 +1,20 @@
-# C#
-*.dll
-*.pdb
-*.exe
-*.suo
-*.cache
-*.log
-*.user
-*.vs/
-obj/
-bin/
-*.sln
-
-# C++
-*.out
-*.o
-*.obj
-
-# C
-*.out
-*.o
-
-# React, Angular, JavaScript
-/node_modules/
-/dist/
-
-# All databases
-*.sqlite
-*.db
-*.sql
-*.bak
-
-# SQL
-*.mdf
-*.ldf
-
-# SQLite
-*.sqlite3
-
-# MongoDB
-/data/db/
-
-# Cache files
-*.cache
-*.tmp
-
-# Password files
-*.pem
-*.key
-*.cer
-*.crt
-
-# Web
-*.html
-*.css
-*.js
-*.min.js
-*.min.css
-
-# Python
-__pycache__/
-*.pyc
-*.pyo
-
-# Visual Studio Code
-.vscode/
-
-# PyCharm
-.idea/
-
-# NuGet packages
-/packages/
-
-# Visual Studio Community
+# Visual Studio temporary files
 .vs/
+*.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
 
-# Other
-Thumbs.db
-Desktop.ini
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
