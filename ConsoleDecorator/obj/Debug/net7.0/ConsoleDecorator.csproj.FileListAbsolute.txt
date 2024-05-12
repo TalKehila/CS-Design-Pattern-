@@ -1,0 +1,28 @@
+C:\Users\antid\source\repos\ConsoleDecorator\bin\Debug\net7.0\ConsoleDecorator.exe
+C:\Users\antid\source\repos\ConsoleDecorator\bin\Debug\net7.0\ConsoleDecorator.deps.json
+C:\Users\antid\source\repos\ConsoleDecorator\bin\Debug\net7.0\ConsoleDecorator.runtimeconfig.json
+C:\Users\antid\source\repos\ConsoleDecorator\bin\Debug\net7.0\ConsoleDecorator.dll
+C:\Users\antid\source\repos\ConsoleDecorator\bin\Debug\net7.0\ConsoleDecorator.pdb
+C:\Users\antid\source\repos\ConsoleDecorator\obj\Debug\net7.0\ConsoleDecorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antid\source\repos\ConsoleDecorator\obj\Debug\net7.0\ConsoleDecorator.AssemblyInfoInputs.cache
+C:\Users\antid\source\repos\ConsoleDecorator\obj\Debug\net7.0\ConsoleDecorator.AssemblyInfo.cs
+C:\Users\antid\source\repos\ConsoleDecorator\obj\Debug\net7.0\ConsoleDecorator.csproj.CoreCompileInputs.cache
+C:\Users\antid\source\repos\ConsoleDecorator\obj\Debug\net7.0\ConsoleDecorator.dll
+C:\Users\antid\source\repos\ConsoleDecorator\obj\Debug\net7.0\refint\ConsoleDecorator.dll
+C:\Users\antid\source\repos\ConsoleDecorator\obj\Debug\net7.0\ConsoleDecorator.pdb
+C:\Users\antid\source\repos\ConsoleDecorator\obj\Debug\net7.0\ConsoleDecorator.genruntimeconfig.cache
+C:\Users\antid\source\repos\ConsoleDecorator\obj\Debug\net7.0\ref\ConsoleDecorator.dll
+C:\Users\USER\Desktop\studies\C# Folde\Design patterns examples C#\ALL Patterns\Decorator\ConsoleDecorator\bin\Debug\net7.0\ConsoleDecorator.exe
+C:\Users\USER\Desktop\studies\C# Folde\Design patterns examples C#\ALL Patterns\Decorator\ConsoleDecorator\bin\Debug\net7.0\ConsoleDecorator.deps.json
+C:\Users\USER\Desktop\studies\C# Folde\Design patterns examples C#\ALL Patterns\Decorator\ConsoleDecorator\bin\Debug\net7.0\ConsoleDecorator.runtimeconfig.json
+C:\Users\USER\Desktop\studies\C# Folde\Design patterns examples C#\ALL Patterns\Decorator\ConsoleDecorator\bin\Debug\net7.0\ConsoleDecorator.dll
+C:\Users\USER\Desktop\studies\C# Folde\Design patterns examples C#\ALL Patterns\Decorator\ConsoleDecorator\bin\Debug\net7.0\ConsoleDecorator.pdb
+C:\Users\USER\Desktop\studies\C# Folde\Design patterns examples C#\ALL Patterns\Decorator\ConsoleDecorator\obj\Debug\net7.0\ConsoleDecorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\studies\C# Folde\Design patterns examples C#\ALL Patterns\Decorator\ConsoleDecorator\obj\Debug\net7.0\ConsoleDecorator.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\studies\C# Folde\Design patterns examples C#\ALL Patterns\Decorator\ConsoleDecorator\obj\Debug\net7.0\ConsoleDecorator.AssemblyInfo.cs
+C:\Users\USER\Desktop\studies\C# Folde\Design patterns examples C#\ALL Patterns\Decorator\ConsoleDecorator\obj\Debug\net7.0\ConsoleDecorator.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\studies\C# Folde\Design patterns examples C#\ALL Patterns\Decorator\ConsoleDecorator\obj\Debug\net7.0\ConsoleDecorator.dll
+C:\Users\USER\Desktop\studies\C# Folde\Design patterns examples C#\ALL Patterns\Decorator\ConsoleDecorator\obj\Debug\net7.0\refint\ConsoleDecorator.dll
+C:\Users\USER\Desktop\studies\C# Folde\Design patterns examples C#\ALL Patterns\Decorator\ConsoleDecorator\obj\Debug\net7.0\ConsoleDecorator.pdb
+C:\Users\USER\Desktop\studies\C# Folde\Design patterns examples C#\ALL Patterns\Decorator\ConsoleDecorator\obj\Debug\net7.0\ConsoleDecorator.genruntimeconfig.cache
+C:\Users\USER\Desktop\studies\C# Folde\Design patterns examples C#\ALL Patterns\Decorator\ConsoleDecorator\obj\Debug\net7.0\ref\ConsoleDecorator.dll
