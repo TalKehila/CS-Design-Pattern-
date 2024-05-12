@@ -1,4 +1,4 @@
-# Visual Studio temporary files
+# Ignore Visual Studio temporary files
 .vs/
 *.vscode/
 *.suo
@@ -6,7 +6,7 @@
 *.userosscache
 *.sln.docstates
 
-# Build results
+# Ignore build and bin directories
 [Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
