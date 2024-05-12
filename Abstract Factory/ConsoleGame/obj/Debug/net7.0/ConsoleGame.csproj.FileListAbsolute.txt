@@ -1,0 +1,14 @@
+C:\Users\antid\source\repos\ConsoleGame\bin\Debug\net7.0\ConsoleGame.exe
+C:\Users\antid\source\repos\ConsoleGame\bin\Debug\net7.0\ConsoleGame.deps.json
+C:\Users\antid\source\repos\ConsoleGame\bin\Debug\net7.0\ConsoleGame.runtimeconfig.json
+C:\Users\antid\source\repos\ConsoleGame\bin\Debug\net7.0\ConsoleGame.dll
+C:\Users\antid\source\repos\ConsoleGame\bin\Debug\net7.0\ConsoleGame.pdb
+C:\Users\antid\source\repos\ConsoleGame\obj\Debug\net7.0\ConsoleGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antid\source\repos\ConsoleGame\obj\Debug\net7.0\ConsoleGame.AssemblyInfoInputs.cache
+C:\Users\antid\source\repos\ConsoleGame\obj\Debug\net7.0\ConsoleGame.AssemblyInfo.cs
+C:\Users\antid\source\repos\ConsoleGame\obj\Debug\net7.0\ConsoleGame.csproj.CoreCompileInputs.cache
+C:\Users\antid\source\repos\ConsoleGame\obj\Debug\net7.0\ConsoleGame.dll
+C:\Users\antid\source\repos\ConsoleGame\obj\Debug\net7.0\refint\ConsoleGame.dll
+C:\Users\antid\source\repos\ConsoleGame\obj\Debug\net7.0\ConsoleGame.pdb
+C:\Users\antid\source\repos\ConsoleGame\obj\Debug\net7.0\ConsoleGame.genruntimeconfig.cache
+C:\Users\antid\source\repos\ConsoleGame\obj\Debug\net7.0\ref\ConsoleGame.dll
