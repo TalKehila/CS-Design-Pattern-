@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\studies\\C# Folde\\Design patterns examples C#\\ALL Patterns\\Decorator\\ConsoleDecorator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{826BDEF4-F6E3-434D-8886-9BBD607BCAEB}|ConsoleDecorator.csproj|c:\\users\\user\\desktop\\studies\\c# folde\\design patterns examples c#\\all patterns\\decorator\\consoledecorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826BDEF4-F6E3-434D-8886-9BBD607BCAEB}|ConsoleDecorator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826BDEF4-F6E3-434D-8886-9BBD607BCAEB}|ConsoleDecorator.csproj|C:\\Users\\USER\\Desktop\\studies\\C# Folde\\Design patterns examples C#\\ALL Patterns\\Decorator\\ConsoleDecorator\\bases\\italian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826BDEF4-F6E3-434D-8886-9BBD607BCAEB}|ConsoleDecorator.csproj|solutionrelative:bases\\italian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826BDEF4-F6E3-434D-8886-9BBD607BCAEB}|ConsoleDecorator.csproj|C:\\Users\\USER\\Desktop\\studies\\C# Folde\\Design patterns examples C#\\ALL Patterns\\Decorator\\ConsoleDecorator\\bases\\bulgarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826BDEF4-F6E3-434D-8886-9BBD607BCAEB}|ConsoleDecorator.csproj|solutionrelative:bases\\bulgarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826BDEF4-F6E3-434D-8886-9BBD607BCAEB}|ConsoleDecorator.csproj|C:\\Users\\USER\\Desktop\\studies\\C# Folde\\Design patterns examples C#\\ALL Patterns\\Decorator\\ConsoleDecorator\\additions\\tomato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826BDEF4-F6E3-434D-8886-9BBD607BCAEB}|ConsoleDecorator.csproj|solutionrelative:additions\\tomato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826BDEF4-F6E3-434D-8886-9BBD607BCAEB}|ConsoleDecorator.csproj|C:\\Users\\USER\\Desktop\\studies\\C# Folde\\Design patterns examples C#\\ALL Patterns\\Decorator\\ConsoleDecorator\\additions\\cheese.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826BDEF4-F6E3-434D-8886-9BBD607BCAEB}|ConsoleDecorator.csproj|solutionrelative:additions\\cheese.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826BDEF4-F6E3-434D-8886-9BBD607BCAEB}|ConsoleDecorator.csproj|C:\\Users\\USER\\Desktop\\studies\\C# Folde\\Design patterns examples C#\\ALL Patterns\\Decorator\\ConsoleDecorator\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826BDEF4-F6E3-434D-8886-9BBD607BCAEB}|ConsoleDecorator.csproj|solutionrelative:pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Italian.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\studies\\C# Folde\\Design patterns examples C#\\ALL Patterns\\Decorator\\ConsoleDecorator\\Bases\\Italian.cs",
+              "RelativeDocumentMoniker": "Bases\\Italian.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\studies\\C# Folde\\Design patterns examples C#\\ALL Patterns\\Decorator\\ConsoleDecorator\\Bases\\Italian.cs",
+              "RelativeToolTip": "Bases\\Italian.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-11T13:41:36.212Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bulgarian.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\studies\\C# Folde\\Design patterns examples C#\\ALL Patterns\\Decorator\\ConsoleDecorator\\Bases\\Bulgarian.cs",
+              "RelativeDocumentMoniker": "Bases\\Bulgarian.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\studies\\C# Folde\\Design patterns examples C#\\ALL Patterns\\Decorator\\ConsoleDecorator\\Bases\\Bulgarian.cs",
+              "RelativeToolTip": "Bases\\Bulgarian.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-11T13:47:29.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cheese.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\studies\\C# Folde\\Design patterns examples C#\\ALL Patterns\\Decorator\\ConsoleDecorator\\Additions\\Cheese.cs",
+              "RelativeDocumentMoniker": "Additions\\Cheese.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\studies\\C# Folde\\Design patterns examples C#\\ALL Patterns\\Decorator\\ConsoleDecorator\\Additions\\Cheese.cs",
+              "RelativeToolTip": "Additions\\Cheese.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-11T13:44:58.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tomato.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\studies\\C# Folde\\Design patterns examples C#\\ALL Patterns\\Decorator\\ConsoleDecorator\\Additions\\Tomato.cs",
+              "RelativeDocumentMoniker": "Additions\\Tomato.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\studies\\C# Folde\\Design patterns examples C#\\ALL Patterns\\Decorator\\ConsoleDecorator\\Additions\\Tomato.cs",
+              "RelativeToolTip": "Additions\\Tomato.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-11T13:42:12.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\studies\\C# Folde\\Design patterns examples C#\\ALL Patterns\\Decorator\\ConsoleDecorator\\Pizza.cs",
+              "RelativeDocumentMoniker": "Pizza.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\studies\\C# Folde\\Design patterns examples C#\\ALL Patterns\\Decorator\\ConsoleDecorator\\Pizza.cs",
+              "RelativeToolTip": "Pizza.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-11T13:41:31.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\studies\\C# Folde\\Design patterns examples C#\\ALL Patterns\\Decorator\\ConsoleDecorator\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\studies\\C# Folde\\Design patterns examples C#\\ALL Patterns\\Decorator\\ConsoleDecorator\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-11T13:39:59.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
