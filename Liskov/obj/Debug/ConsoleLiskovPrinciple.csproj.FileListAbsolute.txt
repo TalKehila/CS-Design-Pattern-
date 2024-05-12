@@ -1,0 +1,7 @@
+C:\Users\antid\source\repos\ConsoleLiskovPrinciple\bin\Debug\ConsoleLiskovPrinciple.exe.config
+C:\Users\antid\source\repos\ConsoleLiskovPrinciple\bin\Debug\ConsoleLiskovPrinciple.exe
+C:\Users\antid\source\repos\ConsoleLiskovPrinciple\bin\Debug\ConsoleLiskovPrinciple.pdb
+C:\Users\antid\source\repos\ConsoleLiskovPrinciple\obj\Debug\ConsoleLiskovPrinciple.csproj.AssemblyReference.cache
+C:\Users\antid\source\repos\ConsoleLiskovPrinciple\obj\Debug\ConsoleLiskovPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\antid\source\repos\ConsoleLiskovPrinciple\obj\Debug\ConsoleLiskovPrinciple.exe
+C:\Users\antid\source\repos\ConsoleLiskovPrinciple\obj\Debug\ConsoleLiskovPrinciple.pdb
